@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from "@/components/TheWelcome.vue";
+import GradePublisher from "../components/GradePublisher.vue";
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <GradePublisher />
   </main>
 </template>
